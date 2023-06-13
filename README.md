@@ -18,6 +18,7 @@ A passionate Computer Engineer interested in Machine learning, Cloud Architectur
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit3134&show_icons=true&locale=en&layout=compact" alt="harshit3134" /></p>
 
+<h3>Dino Running..</h3>
 ![](https://github.com/harshit3134/harshit3134/blob/master/dino.gif)
 
 
