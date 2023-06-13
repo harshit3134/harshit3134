@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Computer Engineer interested in Machine learning, Cloud Architecture and Django Development.<br><br>🔭 I’m currently working on Various ML and Backend Projects<br><br>🌱 I’m currently exploring Various Deep learning and NLP Studies<br><br>💬 Ask me about AWS, Django, Python, and machine learning<br><br>📫 How to reach me harshitajakiya3134@gmail.com<br><br>⚡ Currently Watching Succession on HBO Max
+A passionate Computer Engineer interested in Machine learning, Cloud Architecture and Django Development.<br><br>🔭 I’m currently working on Various ML and Backend Projects<br><br>🌱 I’m currently exploring Various Deep learning and NLP Studies<br><br>💬 Ask me about AWS, Django, Python, and machine learning<br><br>📫 How to reach me harshitajakiya3134@gmail.com<br><br>📺 Currently Watching Succession on HBO Max
 
 
 ## 🌐 Socials:
