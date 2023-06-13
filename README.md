@@ -18,13 +18,13 @@ A passionate Computer Engineer interested in Machine learning, Cloud Architectur
 
 
 
-# Leetcode Stats 🏆
+<!-- # Leetcode Stats 🏆 -->
 
-<div align="left">
+<!-- <div align="left">
 
 <img src="https://leetcard.jacoblin.cool/harshit_3134?theme=nord&font=Ubuntu%20Mono&ext=heatmap" width="50%">
 
-</div>
+</div> -->
 
 
 
