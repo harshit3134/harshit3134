@@ -14,13 +14,12 @@ A passionate Computer Engineer interested in Machine learning, Cloud Architectur
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harshit3134&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit3134&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit3134&show_icons=true&locale=en&layout=compact" alt="harshit3134" /></p>
 
 
-### 😂 Random Dev Meme
+### 😂 Dino running
+![](https://github.com/harshit3134/harshit3134/blob/master/dino.gif)
 
 
