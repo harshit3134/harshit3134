@@ -18,7 +18,7 @@ A passionate Computer Engineer interested in Machine learning, Cloud Architectur
 
 
 
-## Leetcode Stats 🏆
+# Leetcode Stats 🏆
 
 <div align="left">
 
