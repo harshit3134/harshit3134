@@ -20,10 +20,6 @@ A passionate Computer Engineer interested in Machine learning, Cloud Architectur
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit3134&show_icons=true&locale=en&layout=compact" alt="harshit3134" /></p><br/>
 
 
-
-<br>
-# Leetcode Stats 🏆 
-
 <div align="left">
 
 <img src="https://leetcard.jacoblin.cool/harshit_3134?theme=nord&font=Ubuntu%20Mono&ext=heatmap" width="50%">
