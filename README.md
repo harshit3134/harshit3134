@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
+<a  align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&width=435&lines=Computer+Engineer;ML+Geek;Django+Developer;Cloud+Beginner+with+AWS" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Computer Engineer with interests in Machine learning, Cloud Architecture and Django Development.</h3>
+
 
 - 🌱 I’m currently exploring **Various Deep learning and NLP Studies**
 
@@ -16,4 +18,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit3134&show_icons=true&locale=en" alt="harshit3134" /></p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&width=435&lines=Computer+Engineer;ML+Geek;Django+Developer;Cloud+Beginner+with+AWS" alt="Typing SVG" /></a>
