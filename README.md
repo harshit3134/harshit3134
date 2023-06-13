@@ -8,3 +8,5 @@ I'm a software engineer who is passionate about making contributing to open-sour
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓 -->
 - Sharing updates on <a href="https://www.linkedin.com/in/harshit-ajakiya-b32791220/">LinkedIn</a> 💼
+- till then..  get some dino running animation:
+- ![My GIF](/dino.gif)
