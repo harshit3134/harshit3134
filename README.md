@@ -19,7 +19,11 @@ A passionate Computer Engineer interested in Machine learning, Cloud Architectur
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit3134&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit3134&show_icons=true&locale=en&layout=compact" alt="harshit3134" /></p><br/>
 
+<div align="left">
 
+<img src="https://leetcard.jacoblin.cool/harshit_3134?theme=nord&font=Ubuntu%20Mono&ext=heatmap" width="50%">
+
+</div> 
 
 
 ![Dino Running..](https://github.com/harshit3134/harshit3134/blob/master/dino.gif)
