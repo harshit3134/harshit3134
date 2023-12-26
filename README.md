@@ -3,7 +3,7 @@
 # 💫 About Me:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&width=435&lines=ML+Geek;CE+Undergrad;Cloud+Beginner+with+AWS+and+GCP;Python+Backend+Developer" alt="Typing SVG" /></a>
 <br>
-A passionate Computer Engineering interested in Machine learning, Large Language Models, Cloud and Python Development.<br><br>🔭 I’m currently working on Various ML and Backend Projects<br><br>🌱 I’m currently exploring Various Deep learning and NLP Studies<br><br>💬 Ask me about Machine learning, Django, Deep Learning, and Cloud! <br><br>📫 How to reach me harshitajakiya3134@gmail.com<br><br>📺 Currently Watching Succession on HBO Max
+A passionate Computer Engineering interested in Machine learning, Large Language Models, Cloud and Python Development.<br><br>🔭 I’m currently working on Various ML and Backend Projects<br><br>🌱 I’m currently exploring Various Deep learning and NLP Studies<br><br>💬 Ask me about Machine learning, Django, Deep Learning, and Cloud! <br><br>📫 How to reach me harshitajakiya3134@gmail.com<br><br>
 
 
 ## 🌐 Socials:
